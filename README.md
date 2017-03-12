@@ -1,6 +1,8 @@
 # How-to-Use-Tensorflow-for-Time-Series-Live
 
 ##Overview
+ 
+This is the second commint
 
 This is the code for [this](https://youtu.be/ftMq5ps503w) video on Youtube by Siraj Raval part of the Udacity Deep Learning nanodegree. 
 We use a [Recurrent neural network](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) 
